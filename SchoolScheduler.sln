@@ -1,11 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SchoolScheduler", "SchoolScheduler\SchoolScheduler.fsproj", "{E9AAD0ED-9B52-45F6-A3F9-86BE4C76A758}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DAE632C2-6AA2-4934-9F87-8D62C1F292B5}"
-	ProjectSection(SolutionItems) = preProject
-		docker-compose.yml = docker-compose.yml
-	EndProjectSection
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SchoolScheduler", "SchoolScheduler\SchoolScheduler.fsproj", "{40296653-7908-47B8-889E-62ADDCE6FEC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9AAD0ED-9B52-45F6-A3F9-86BE4C76A758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9AAD0ED-9B52-45F6-A3F9-86BE4C76A758}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9AAD0ED-9B52-45F6-A3F9-86BE4C76A758}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9AAD0ED-9B52-45F6-A3F9-86BE4C76A758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40296653-7908-47B8-889E-62ADDCE6FEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40296653-7908-47B8-889E-62ADDCE6FEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40296653-7908-47B8-889E-62ADDCE6FEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40296653-7908-47B8-889E-62ADDCE6FEC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

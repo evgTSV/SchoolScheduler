@@ -1,6 +1,0 @@
-﻿services:
-  schoolscheduler:
-    image: schoolscheduler
-    build:
-      context: .
-      dockerfile: SchoolScheduler/Dockerfile
